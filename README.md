@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smajumdar22
 - 👀 I’m interested in SDE or SDET jobs
-- 🌱 I’m currently learning angular
+- 🌱 I’m currently learning typescript , angular and playwright
 - 💞️ I’m looking to collaborate on REACT/ Node / JAVA / Javascript projects
 - 📫 How to reach me  - smajumdar22@gmail.com
 
